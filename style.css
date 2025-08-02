@@ -74,12 +74,6 @@ body {
   background-color: #4088c4;
 }
 
-.all-clear {
-  background-color: #dc3545;
-  color: #fff;
-  width: 50%;
-}
-
 .all-clear:hover {
   background-color: #e04b5a;
 }
